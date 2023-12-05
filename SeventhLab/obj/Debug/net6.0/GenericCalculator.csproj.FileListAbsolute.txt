@@ -1,0 +1,14 @@
+D:\codes\codes for uni\SeventhLab\SeventhLab\bin\Debug\net6.0\GenericCalculator.exe
+D:\codes\codes for uni\SeventhLab\SeventhLab\bin\Debug\net6.0\GenericCalculator.deps.json
+D:\codes\codes for uni\SeventhLab\SeventhLab\bin\Debug\net6.0\GenericCalculator.runtimeconfig.json
+D:\codes\codes for uni\SeventhLab\SeventhLab\bin\Debug\net6.0\GenericCalculator.dll
+D:\codes\codes for uni\SeventhLab\SeventhLab\bin\Debug\net6.0\GenericCalculator.pdb
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.AssemblyInfoInputs.cache
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.AssemblyInfo.cs
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.csproj.CoreCompileInputs.cache
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.dll
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\refint\GenericCalculator.dll
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.pdb
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\GenericCalculator.genruntimeconfig.cache
+D:\codes\codes for uni\SeventhLab\SeventhLab\obj\Debug\net6.0\ref\GenericCalculator.dll
